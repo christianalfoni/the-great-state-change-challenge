@@ -26,7 +26,9 @@ A state driven application is an application where the internal state of the app
 2. When some other part of your application wants to change the query value it can do so by changing the internal state, not going into the DOM and change the value there
 
 #### Challenge example
-The 
+
+##### The scenario
+The application should have an input that will update the title state.
 
 ##### Given the following state...
 ```js
